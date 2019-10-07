@@ -1,2 +1,5 @@
 # Creativity + Computation at Parsons
-Code Samples for CC Lab
+
+Hey everyone!
+
+Code will be pushed during and after class to the repo for in-class and homework assignments.
